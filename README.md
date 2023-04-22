@@ -15,4 +15,3 @@ Ao inicializar o aplicativo, precisa-se inserir sua altura e peso. Baseado nessa
 ## Interface: 
 ![Calculadora IMC - Início](https://user-images.githubusercontent.com/131506243/233808458-3b8ea2b5-93b4-471a-b7f6-441d0232070b.png)
 ![Calculadora IMC - Resultado](https://user-images.githubusercontent.com/131506243/233808456-c7f504c7-bdea-4060-9699-9ab06b5ed4f6.png)
-ç
