@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/reset"
+        android:title=""
+        android:icon="@drawable/ic_reset"
+        app:showAsAction="ifRoom" />
+
+    <!-- O android:tittle está no código, e como valor vazio, pois
+     qualquer Item do menu necessita especificar um título.
+
+     O app:showAsAction é para quando e como esse item deve ser exibido
+     como um item de ação na barra de apps. Um item de menu pode ser
+     exibido como um item de ação somente quando a atividade inclui
+     uma barra de apps.
+     O valor escolhido, nesse caso, foi o ifRoom, que diz só coloque este
+     item na barra de apps se houver espaço para ele. Se não houver espaço
+     para todos os itens marcados como "ifRoom", os itens com os menores
+     valores orderInCategory serão exibidos como ações, e os demais serão
+     exibidos no menu flutuante.
+    -->
+
+</menu>
