@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "542248411297",
+    "project_id": "calculadora-imc-19248",
+    "storage_bucket": "calculadora-imc-19248.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:542248411297:android:8d118554162c8f8e6dd0e0",
+        "android_client_info": {
+          "package_name": "com.example.calculadoradeimc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "542248411297-gkt5h7hu7k734uhaknlqhqkgtplubrnh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAyG2RoG6prsnKEutZpkqkYeNvsGNNRJSM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "542248411297-gkt5h7hu7k734uhaknlqhqkgtplubrnh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
